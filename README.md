@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Poptart here.
+
+I have no idea what im doing.
